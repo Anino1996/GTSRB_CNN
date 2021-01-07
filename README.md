@@ -6,4 +6,4 @@ This web app was deployed using Heroku and can be found by visiting https://morn
 
 The code and results obtained in building and training the model in question can be found in GTSRB_CNN_Results.pdf.
 The code for the web application can be found in the "web_app" directory. 
-Report.pdf - A comprehensive report describing the technical details of the project.
+"Report.pdf" is a comprehensive report describing the technical details of the project.
