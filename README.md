@@ -4,5 +4,6 @@ In this project, a system that can accurately detect and determine the type of r
 A simple web application is then developed using the Streamlit library where an image can be uploaded and the corresponding type of road sign displayed. 
 This web app was deployed using Heroku and can be found by visiting https://morning-anchorage-96843.herokuapp.com
 
-The code and results obtained in building and training the model in question can be found in GTSRB_CNN.pdf.
+The code and results obtained in building and training the model in question can be found in GTSRB_CNN_Results.pdf.
 The code for the web application can be found in the "web_app" directory. 
+Report.pdf - A comprehensive report describing the technical details of the project.
